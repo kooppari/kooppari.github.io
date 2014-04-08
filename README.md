@@ -3,7 +3,7 @@ kooppari.github.io
 
 ## Hello world!
 
-This is my first try at github!
+This is my first try at github! I have no idea what I'm doing.
 
 My Github user page is at: 
 https://github.com/kooppari/
